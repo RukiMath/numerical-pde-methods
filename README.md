@@ -46,14 +46,43 @@ Implements a 2D shallow water model with bottom topography.
 
 Install dependencies:
 
-```bash
 pip install -r requirements.txt
-python heat_equation_CN_1D.py
-python shallow_water_HLL_1D.py
-python shallow_water_2D.py
-python shallow_water_well_balanced_2D.py
+
+Run the scripts:
+
+python heat_equation_CN_1D.py  
+python shallow_water_HLL_1D.py  
+python shallow_water_2D.py  
+python shallow_water_well_balanced_2D.py  
+
+---
+
+## Example Outputs
+
+### 1D Heat Equation
+![1D Heat Equation](heat_cn_1d.png)
+
+### 1D Shallow Water (Height)
+![1D Shallow Water Height](sw_hll_1d_height.png)
+
+### 1D Shallow Water (Velocity)
+![1D Shallow Water Velocity](sw_hll_1d_velocity.png)
+
+### 2D Shallow Water
+![2D Shallow Water](sw_2d.png)
+
+### 2D Well-Balanced Shallow Water
+![2D Well-Balanced](sw_wb_2d.png)
+
+---
+
+## Technologies
+- Python
+- NumPy
+- Matplotlib
+
+---
 
 ## Author
-
-**Rukevwe Jerome Ekpamaku**
+**Rukevwe Jerome Ekpamaku**  
 Applied Mathematics | Numerical PDEs | Scientific Computing
