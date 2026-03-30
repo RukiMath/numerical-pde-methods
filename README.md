@@ -63,16 +63,16 @@ python shallow_water_well_balanced_2D.py
 ![1D Heat Equation](heat_cn_1d.png)
 
 ### 1D Shallow Water (Height)
-![1D Shallow Water Height](sw_hll_1d_height.png)
+sw_hll_1d_height.png
 
 ### 1D Shallow Water (Velocity)
-![1D Shallow Water Velocity](sw_hll_1d_velocity.png)
+sw_hll_1d_velocity.png
 
 ### 2D Shallow Water
-![2D Shallow Water](sw_2d.png)
+sw_2d.png
 
 ### 2D Well-Balanced Shallow Water
-![2D Well-Balanced](sw_wb_2d.png)
+sw_wb_2d.png
 
 ---
 
