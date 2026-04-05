@@ -86,3 +86,19 @@ python shallow_water_well_balanced_2D.py
 ## Author
 **Rukevwe Jerome Ekpamaku**  
 Applied Mathematics | Numerical PDEs | Scientific Computing
+
+The implementations in this repository are simplified educational versions of methods widely used in computational fluid dynamics and numerical analysis research.
+
+---
+
+## References
+
+The numerical methods implemented in this repository are based on standard literature in numerical PDEs and computational fluid dynamics:
+
+1. LeVeque, R. J. (2002). *Finite Volume Methods for Hyperbolic Problems*. Cambridge University Press.  
+2. Toro, E. F. (2001). *Shock-Capturing Methods for Free-Surface Shallow Flows*. Wiley.  
+3. Kurganov, A. (2018). Finite-volume schemes for shallow-water equations. *Acta Numerica*.  
+4. Audusse, E. et al. (2004). A fast and stable well-balanced scheme for the shallow water equations.  
+5. Xing, Y. (2017). Numerical methods for the nonlinear shallow water equations.  
+
+These works form the foundation of finite volume methods, Riemann solvers, and well-balanced schemes used in shallow water modelling.
